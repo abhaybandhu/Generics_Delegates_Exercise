@@ -33,11 +33,10 @@ namespace Generics_Delegates_Exercise
 
                         bikeManagement.Execute(AdminFunc);
                         
-                        
+
                         break;
 
                     default:
-                        //throw new NotImplementedException();
                         return;
                 }
             }
